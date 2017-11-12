@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: pose1
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: cadera
+    localPosition: {x: -4.857814, y: 0.22500265, z: 0}
+    localRotation: {x: 0, y: -0, z: -0.7523929, w: -0.65871465}
+    localScale: {x: 1.1637588, y: 1, z: 1}
+  - path: cadera/espalda
+    localPosition: {x: 0.78956234, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.03468063, w: 0.99939847}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: cadera/espalda/espalda 2
+    localPosition: {x: 0.6472494, y: 0.0000000071304385, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.046415906, w: 0.9989223}
+    localScale: {x: 2.0116835, y: 2.011684, z: 2.011684}
+  - path: cadera/espalda/espalda 2/cuello
+    localPosition: {x: 0.16544513, y: 0.00000006020608, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.049525406, w: 0.99877286}
+    localScale: {x: 0.082585625, y: 0.25014567, z: 1}
+  - path: cadera/espalda/espalda 2/cuello/cabesa
+    localPosition: {x: 1.1199718, y: -0.010358004, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.05078889, w: 0.99870944}
+    localScale: {x: 3.9528165, y: 1, z: 1}
+  - path: cadera/espalda/espalda 2/brazo izq
+    localPosition: {x: 0.02987149, y: 0.25675812, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.96925586, w: 0.24605493}
+    localScale: {x: 0.4666356, y: 0.37105274, z: 1}
+  - path: cadera/espalda/espalda 2/brazo izq/antebrazo izq
+    localPosition: {x: 0.9928847, y: -0.0011230104, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.25045046, w: 0.96812946}
+    localScale: {x: 1.1913556, y: 1.1913556, z: 1.1913556}
+  - path: cadera/espalda/espalda 2/brazo der
+    localPosition: {x: 0.07156843, y: -0.37406707, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9987022, w: 0.05093102}
+    localScale: {x: 0.47542608, y: 0.46354905, z: 0.46354905}
+  - path: cadera/espalda/espalda 2/brazo der/antebrazo der
+    localPosition: {x: 1.1187997, y: -0.0002620366, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.18423292, w: 0.9828826}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: cadera/pierna der
+    localPosition: {x: -0.24223748, y: -0.14841095, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.99520665, w: -0.0977943}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: cadera/pierna der/tibia der
+    localPosition: {x: 1.0446838, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.28089157, w: 0.95973957}
+    localScale: {x: 1.2426414, y: 1, z: 1}
+  - path: cadera/pierna der/tibia der/pie der
+    localPosition: {x: 1.0259619, y: -0.0032552406, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.7680022, w: 0.6404472}
+    localScale: {x: 0.4727096, y: 0.5267987, z: 1.0548697}
+  - path: cadera/pierna izq
+    localPosition: {x: -0.15784355, y: 0.37789026, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9983661, w: 0.057141595}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: cadera/pierna izq/tibia izq
+    localPosition: {x: 1.0348394, y: -0.00000017881393, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.23955396, w: 0.9708831}
+    localScale: {x: 1.3177236, y: 1, z: 1}
+  - path: cadera/pierna izq/tibia izq/pie izq
+    localPosition: {x: 1.041137, y: 0.0009336211, z: 0}
+    localRotation: {x: -0, y: -0, z: 0.8053942, w: 0.5927397}
+    localScale: {x: 0.4638179, y: 0.5206019, z: 1}

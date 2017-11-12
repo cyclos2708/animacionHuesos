@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animacionHuesos", "animacionHuesos.csproj", "{7788F694-B876-747B-8E6A-832C742CC558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "animacionHuesos.Editor", "animacionHuesos.Editor.csproj", "{5460E8E4-F340-83FD-46CD-6F6497AD108C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7788F694-B876-747B-8E6A-832C742CC558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7788F694-B876-747B-8E6A-832C742CC558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7788F694-B876-747B-8E6A-832C742CC558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7788F694-B876-747B-8E6A-832C742CC558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5460E8E4-F340-83FD-46CD-6F6497AD108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5460E8E4-F340-83FD-46CD-6F6497AD108C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5460E8E4-F340-83FD-46CD-6F6497AD108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5460E8E4-F340-83FD-46CD-6F6497AD108C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
